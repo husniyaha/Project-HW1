@@ -12,15 +12,15 @@ This repo contains two directories, each with a text file.
 
 
 
-\- \*\*Project-HW1/\*\*
+* Project-HW1
 
-  - \*\*directory1/\*\*
+&nbsp;	\* directory1
 
-    - file1.txt
+&nbsp;		\* file1.txt
 
-  - \*\*directory2/\*\*
+&nbsp;	\* directory2
 
-    - file2.txt
+&nbsp;		\* file2.txt
 
-  - README.md
+&nbsp;	\*README.md
 
