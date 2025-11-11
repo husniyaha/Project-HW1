@@ -1,22 +1,26 @@
-\#Hello 
+\# Hello
 
 
 
-This is my repo for Project-HW1: Git and GitHub! This repo has 2 directories with text files.
+This is my repo for \*\*Project-HW1: Git and GitHub!\*\*
+
+This repo contains two directories, each with a text file.
 
 
 
-\#Structure
+\## Structure
 
-\- Project-HW1/
 
-&nbsp; - directory1/
 
-&nbsp;   - file1.txt
+\- \*\*Project-HW1/\*\*
 
-&nbsp; - directory2/
+  - \*\*directory1/\*\*
 
-&nbsp;   - file2.txt
+    - file1.txt
 
-&nbsp; - README.md
+  - \*\*directory2/\*\*
+
+    - file2.txt
+
+  - README.md
 
